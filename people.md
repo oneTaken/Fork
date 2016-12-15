@@ -1,6 +1,6 @@
 1. 	Yangqing Jia  贾扬清，caffe作者
 2.  Ross Girshick R-CNN系列论文作者
-3.  Urinx         WeixinBot作者
+3.  Urinx         [WeixinBot]<https://github.com/Urinx/WeixinBot>作者
 4.  wustdong      董晶
 5.  Mu Li         李沐，Mxnet作者之一
 6.  CindyDing1115 丁玉玲
