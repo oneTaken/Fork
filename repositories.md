@@ -1,0 +1,20 @@
+1.  [知乎api]<https://github.com/syaning/zhihu-api>
+2.  [keras]<https://github.com/fchollet/keras>
+3.  [deep-learning-book中文翻译]<https://github.com/exacity/deeplearningbook-chinese>
+4.  [增强学习介绍]<https://github.com/ShangtongZhang/reinforcement-learning-an-introduction>
+5.  [FreeCodeCamp]<https://github.com/FreeCodeCamp/FreeCodeCamp>
+6.  [cs视频资源]<https://github.com/Developer-Y/cs-video-courses>
+7.  [极视角deep-learning中文翻译]<https://github.com/ExtremeMart/DeepLearningBook-CN>
+8.  [百度paddle平台]<https://github.com/PaddlePaddle/Paddle>
+9.  [face 资源]<https://github.com/betars/Face-Resources>
+10. [微信机器人]<https://github.com/littlecodersh/ItChat>
+11. [python练手小例子]<https://github.com/Yixiaohan/show-me-the-code>
+12. [pylearn2工具]<https://github.com/lisa-lab/pylearn2>
+13. [神经网络论文]<https://github.com/robertsdionne/neural-network-papers>
+14. [github-trending]<https://github.com/josephyzhou/github-trending>
+15. [caffe]<https://github.com/BVLC/caffe>
+16. [tensorflow]<https://github.com/tensorflow/tensorflow>
+17. [keras]<https://github.com/fchollet/keras>
+18. [torch7]<https://github.com/torch/torch7>
+19. [theano]<https://github.com/Theano/Theano>
+20. [CNTK]<https://github.com/Microsoft/CNTK>
