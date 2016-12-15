@@ -19,3 +19,4 @@
 19. [theano]<https://github.com/Theano/Theano>
 20. [CNTK]<https://github.com/Microsoft/CNTK>
 21. [微信机器人2]<https://github.com/Urinx/WeixinBot>
+22. [微信公众号爬虫]<https://github.com/Chyroc/WechatSogou>
