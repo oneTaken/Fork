@@ -20,3 +20,4 @@
 20. [CNTK]<https://github.com/Microsoft/CNTK>
 21. [微信机器人2]<https://github.com/Urinx/WeixinBot>
 22. [微信公众号爬虫]<https://github.com/Chyroc/WechatSogou>
+23. [知乎api（python）]（https://github.com/syaning/zhihuapi-py）
