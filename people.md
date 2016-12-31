@@ -20,3 +20,4 @@
 20. Justin Johnson  torch下[neural-style]<https://github.com/jcjohnson/neural-style>作者
 21. mrlittlepig   张军辉
 22. lanbing510    爬虫
+23. colah         [colah系列博客]<https://github.com/colah>
