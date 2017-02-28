@@ -21,3 +21,6 @@
 21. mrlittlepig   张军辉
 22. lanbing510    爬虫
 23. colah         [colah系列博客]<https://github.com/colah>
+24. wwj718
+25. yosinski      反卷积作者
+26. sindresorhus  awesome系列
