@@ -23,3 +23,22 @@
 23. [知乎api（python）]（https://github.com/syaning/zhihuapi-py）
 24. [RiverTrail](https://github.com/IntelLabs/RiverTrail/)
 25. [python docx官方库](https://github.com/python-openxml/python-docx)
+26. [python环境管理]（https://github.com/yyuu/pyenv）
+27. [命令行下载媒体内容](https://github.com/soimort/you-get)
+28. [PaperWeekly论坛]（https://github.com/wwj718/paperweekly_forum）
+29. [awesome](https://github.com/sindresorhus/awesome)
+30. [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+31. [deep learning papers reading roadmap](https://github.com/ChristosChristofidis/awesome-deep-learning)
+32. [yige.ai python SDK](https://github.com/wwj718/yige-python)
+33. [reinforcement learning](https://github.com/dennybritz/reinforcement-learning)
+34. [openai gym](https://github.com/openai/gym)
+35. [visualization toolbox](https://github.com/yosinski/deep-visualization-toolbox)
+36. [lantern](https://github.com/getlantern/lantern)
+37. [LISA's deep learning tutorial](https://github.com/lisa-lab/DeepLearningTutorials)
+38. [fcn caffe deploy](https://github.com/shelhamer/fcn.berkeleyvision.org)
+39. [用深度学习检测文本](https://github.com/tianzhi0549/CTPN)
+40. [most cited deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)
+41. [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)
+42. [deepmind lab](https://github.com/deepmind/lab)
+43. [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
+44. [厂商黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
