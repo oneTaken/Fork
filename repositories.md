@@ -20,12 +20,12 @@
 20. [CNTK](https://github.com/Microsoft/CNTK)
 21. [微信机器人2](https://github.com/Urinx/WeixinBot)
 22. [微信公众号爬虫](https://github.com/Chyroc/WechatSogou)
-23. [知乎api(python)](https://github.com/syaning/zhihuapi-py）
+23. [知乎api(python)](https://github.com/syaning/zhihuapi-py)
 24. [RiverTrail](https://github.com/IntelLabs/RiverTrail/)
 25. [python docx官方库](https://github.com/python-openxml/python-docx)
-26. [python环境管理](https://github.com/yyuu/pyenv）
+26. [python环境管理](https://github.com/yyuu/pyenv)
 27. [命令行下载媒体内容](https://github.com/soimort/you-get)
-28. [PaperWeekly论坛](https://github.com/wwj718/paperweekly_forum）
+28. [PaperWeekly论坛](https://github.com/wwj718/paperweekly_forum)
 29. [awesome](https://github.com/sindresorhus/awesome)
 30. [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 31. [deep learning papers reading roadmap](https://github.com/ChristosChristofidis/awesome-deep-learning)
