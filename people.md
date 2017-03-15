@@ -24,3 +24,4 @@
 24. wwj718
 25. yosinski      反卷积作者
 26. sindresorhus  awesome系列
+27. KaimingHe     何凯明，暗通道先验和ResNet两度CVPR best paper 
