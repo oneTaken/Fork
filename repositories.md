@@ -1,26 +1,26 @@
-1.  [知乎api]<https://github.com/syaning/zhihu-api>
-2.  [keras]<https://github.com/fchollet/keras>
-3.  [deep-learning-book中文翻译]<https://github.com/exacity/deeplearningbook-chinese>
-4.  [增强学习介绍]<https://github.com/ShangtongZhang/reinforcement-learning-an-introduction>
-5.  [FreeCodeCamp]<https://github.com/FreeCodeCamp/FreeCodeCamp>
-6.  [cs视频资源]<https://github.com/Developer-Y/cs-video-courses>
-7.  [极视角deep-learning中文翻译]<https://github.com/ExtremeMart/DeepLearningBook-CN>
-8.  [百度paddle平台]<https://github.com/PaddlePaddle/Paddle>
-9.  [face 资源]<https://github.com/betars/Face-Resources>
-10. [微信机器人]<https://github.com/littlecodersh/ItChat>
-11. [python练手小例子]<https://github.com/Yixiaohan/show-me-the-code>
-12. [pylearn2工具]<https://github.com/lisa-lab/pylearn2>
-13. [神经网络论文]<https://github.com/robertsdionne/neural-network-papers>
-14. [github-trending]<https://github.com/josephyzhou/github-trending>
-15. [caffe]<https://github.com/BVLC/caffe>
-16. [tensorflow]<https://github.com/tensorflow/tensorflow>
-17. [keras]<https://github.com/fchollet/keras>
-18. [torch7]<https://github.com/torch/torch7>
-19. [theano]<https://github.com/Theano/Theano>
-20. [CNTK]<https://github.com/Microsoft/CNTK>
-21. [微信机器人2]<https://github.com/Urinx/WeixinBot>
-22. [微信公众号爬虫]<https://github.com/Chyroc/WechatSogou>
-23. [知乎api（python）]（https://github.com/syaning/zhihuapi-py）
+1.  [知乎api](https://github.com/syaning/zhihu-api)
+2.  
+3.  [deep-learning-book中文翻译](https://github.com/exacity/deeplearningbook-chinese)
+4.  [增强学习介绍](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+5.  [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp)
+6.  [cs视频资源](https://github.com/Developer-Y/cs-video-courses)
+7.  [极视角deep-learning中文翻译](https://github.com/ExtremeMart/DeepLearningBook-CN)
+8.  [百度paddle平台](https://github.com/PaddlePaddle/Paddle)
+9.  [face 资源](https://github.com/betars/Face-Resources)
+10. [微信机器人](https://github.com/littlecodersh/ItChat)
+11. [python练手小例子](https://github.com/Yixiaohan/show-me-the-code)
+12. [pylearn2工具](https://github.com/lisa-lab/pylearn2)
+13. [神经网络论文](https://github.com/robertsdionne/neural-network-papers)
+14. [github-trending](https://github.com/josephyzhou/github-trending)
+15. [caffe](https://github.com/BVLC/caffe)
+16. [tensorflow](https://github.com/tensorflow/tensorflow)
+17. [keras](https://github.com/fchollet/keras)
+18. [torch7](https://github.com/torch/torch7)
+19. [theano](https://github.com/Theano/Theano)
+20. [CNTK](https://github.com/Microsoft/CNTK)
+21. [微信机器人2](https://github.com/Urinx/WeixinBot)
+22. [微信公众号爬虫](https://github.com/Chyroc/WechatSogou)
+23. [知乎api（python）](https://github.com/syaning/zhihuapi-py）
 24. [RiverTrail](https://github.com/IntelLabs/RiverTrail/)
 25. [python docx官方库](https://github.com/python-openxml/python-docx)
 26. [python环境管理]（https://github.com/yyuu/pyenv）
@@ -42,3 +42,21 @@
 42. [deepmind lab](https://github.com/deepmind/lab)
 43. [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
 44. [厂商黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
+45. [ResNet](https://github.com/KaimingHe/deep-residual-networks)
+46. [SecLists](https://github.com/danielmiessler/SecLists)
+47. [caffe-segnet](https://github.com/alexgkendall/caffe-segnet)
+48. [pywifi](https://github.com/awkman/pywifi)
+49. [whereami](https://github.com/kootenpv/whereami)
+50. [adversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
+51. [awesome-object-proposals](https://github.com/caocuong0306/awesome-object-proposals)
+52. [deepcolor](https://github.com/kvfrans/deepcolor)
+53. [arxiv-santiy-preserver](https://github.com/karpathy/arxiv-sanity-preserver)
+54. [awesome-python](https://github.com/vinta/awesome-python)
+55. [python-fire](https://github.com/google/python-fire)
+56. [google interview university](https://github.com/google/python-fire)
+57. [Pillow](https://github.com/python-pillow/Pillow)
+58. [scrapy](https://github.com/scrapy/scrapy)
+59. [vue](https://github.com/vuejs/vue)
+60. [design patterns for humans](https://github.com/vuejs/vue)
+61. [react-trend](https://github.com/unsplash/react-trend)
+62. [pointnet](https://github.com/charlesq34/pointnet)
